@@ -1,2 +1,1 @@
-# JavaEE-Learning
-Learn JavaEE and practice.
+# Java EE 课程练习
